@@ -1,0 +1,1 @@
+# RoK_OCR_TOTALPOWER
