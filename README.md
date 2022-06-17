@@ -2,8 +2,8 @@
 
 ## 概要
 
-ゲーム【Rise of Kingdom】の同盟戦力を計算するプログラムです．
-各王国幹部のKvK前の戦力調整の手間が減ることを祈って．
+ゲーム【Rise of Kingdom】の同盟戦力を計算するプログラムです．  
+各王国幹部のKvK前の戦力調整の手間が減ることを祈って．  
 
 ## 準備
   * google colaboratory (Jupytor Notebook)
